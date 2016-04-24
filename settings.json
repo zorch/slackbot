@@ -1,0 +1,12 @@
+{
+    public: {
+    	"slackbotToken": "xoxb-35992647746-BXVnspq906WcNcdIdKHLKaiM", 
+	    "name": "dailyupdates",
+	    "closestRelative": "zorch",
+	    "startMessage": "",
+	    "welcomeMessage": [
+	        "Welcome to the Daily Updates Bot",
+	        "Have a nice Day"
+	    ]
+	}
+}

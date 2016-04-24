@@ -1,0 +1,12 @@
+{
+  "name": "slackbot",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@slack/client": "^2.3.0",
+    "meteor-node-stubs": "~0.2.0",
+    "slack-node": "^0.2.0"
+  }
+}
