@@ -1,0 +1,9 @@
+
+<template name="dashboard">
+  {{#each Channels}}
+    <h2>Channel: {{name}}</h2> <input type="checkbox" checked={{active}}>
+  {{/each}}
+  {{#each Users}}
+    <h2>User: {{name}}</h2> <input type="checkbox" checked={{active}}>
+  {{/each}}
+</template>
